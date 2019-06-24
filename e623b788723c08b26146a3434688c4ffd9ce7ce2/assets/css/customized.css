@@ -20,3 +20,12 @@ section#banner .inner {
 .features li:before {
 	color: #f7f7f7;
 }
+
+img.mobileLogo {
+	height: 2.5em;
+    margin: 0.25em 0;
+}
+
+img.primaryLogo {
+    width: 100%;    
+}
