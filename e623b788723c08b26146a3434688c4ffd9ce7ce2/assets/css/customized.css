@@ -1,0 +1,22 @@
+section#banner {
+	background-attachment: fixed;
+	background-image: url('//source.unsplash.com/random/2000x800');
+	background-position: center center;
+	background-size: cover;
+}
+
+section#banner .inner {
+	background: rgba(0,0,0,0.5);
+}
+
+.wrapper.style3 {
+	background-color: #C8102E;
+}
+
+.wrapper.style1 {
+    background-color: #76232F;
+}
+
+.features li:before {
+	color: #f7f7f7;
+}
